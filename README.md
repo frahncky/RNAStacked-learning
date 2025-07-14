@@ -2,8 +2,8 @@
 
 ## Description
 
-This project proposes a new method for layer insertion in Stacked Autoencoder neural networks.  
-The goal is to improve incremental learning in fully connected networks through a cascade architecture.
+This project proposes a novel algorithm for layer insertion in stacked autoencoder neural networks.
+It aims to improve incremental learning in fully connected networks by using a cascade architecture with parallel branches.
 
 ---
 
@@ -39,7 +39,7 @@ If you use this code in your work, please cite it as follows:
 ```bibtex
 @software{viana2025layerinsertion,
   author = {Francisco dos Santos Viana and Bianca Valéria Lopes Pereira and Moisés Santos and Carlos Soares and Areolino de Almeida Neto},
-  title = {A New Proposal of Layer Insertion in Stacked Autoencoder Neural Networks},
+  title = {Algorithm for Layer Insertion in Stacked Autoencoder Neural Networks with Activation Function Change},
   year = {2025},
   version = {1.0.0},
   url = {https://github.com/frahncky/RNAStacked-learning}
