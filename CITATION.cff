@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Se você usar este código, cite da seguinte forma:"
+authors:
+  - family-names: Viana
+    given-names: Francisco dos Santos
+    orcid: https://orcid.org/0000-0001-6912-8449
+  - family-names: Lopes Pereira
+    given-names: Bianca Valéria
+    orcid: https://orcid.org/0000-0002-3015-0849
+  - family-names: Santos
+    given-names: Moisés
+    orcid: https://orcid.org/0000-0002-1541-8333
+  - family-names: Soares
+    given-names: Carlos
+    orcid: https://orcid.org/0000-0003-4549-8917
+  - family-names: de Almeida Neto
+    given-names: Areolino
+title: A New Proposal of Layer Insertion in Stacked
+Autoencoder Neural Networks
+version: 1.0.0
+date-released: 2025-07-14
+url: https://github.com/frahncky/RNAStacked-learning
