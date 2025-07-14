@@ -74,12 +74,12 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
   Email: bvlp06@gmail.com
 
 - **Moisés Santos**  
-  Fraunhofer AICOS Portugal, Lab. AI and CS (LIACC)  
   Faculty of Engineering of Porto, University of Porto, Portugal  
   Email: mrsantos@fe.up.pt
 
-- **Carlos Soares**  
-  Faculty of Engineering of Porto, Portugal  
+- **Carlos Soares**    
+  Fraunhofer AICOS Portugal, Lab. AI and CS (LIACC)  
+  Faculty of Engineering of Porto, University of Porto, Portugal
   Email: csoares@fe.up.pt
 
 - **Areolino de Almeida Neto**  
