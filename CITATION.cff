@@ -15,8 +15,9 @@ authors:
     orcid: https://orcid.org/0000-0003-4549-8917
   - family-names: de Almeida Neto
     given-names: Areolino
-title: A New Proposal of Layer Insertion in Stacked
-Autoencoder Neural Networks
+title: >
+  A New Proposal of Layer Insertion in Stacked
+  Autoencoder Neural Networks
 version: 1.0.0
 date-released: 2025-07-14
 url: https://github.com/frahncky/RNAStacked-learning
